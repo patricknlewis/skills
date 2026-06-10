@@ -1,0 +1,17 @@
+{
+  "name": "figma-to-design-md",
+  "version": "1.0.0",
+  "description": "Generate or update a DESIGN.md design-system spec from a Figma design system file, following the google-labs-code/design.md format.",
+  "author": {
+    "name": "Patrick Lewis",
+    "email": "patrick@bytortuga.com",
+    "url": "https://github.com/patricknlewis"
+  },
+  "homepage": "https://github.com/patricknlewis/skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patricknlewis/skills"
+  },
+  "keywords": ["figma", "design-system", "design-md", "design-tokens", "mcp"],
+  "license": "MIT"
+}

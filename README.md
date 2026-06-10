@@ -1,0 +1,40 @@
+# Patrick Lewis — Claude Skills
+
+A small marketplace of [Claude Code](https://code.claude.com) skills I use in my design and product work. Install any of them in two commands.
+
+## Install
+
+In Claude Code, add the marketplace once:
+
+```
+/plugin marketplace add patricknlewis/skills
+```
+
+Then install the skill you want:
+
+```
+/plugin install figma-to-design-md
+```
+
+That's it. Updates arrive automatically when I push new versions — or run `/plugin marketplace update` to refresh on demand.
+
+## Skills
+
+### figma-to-design-md
+
+Turns any Figma design system into a spec-compliant [`DESIGN.md`](https://github.com/google-labs-code/design.md) — the plain-text, AI-readable source of truth for a design system. It pulls colors, typography, spacing, radii, and every component (with variants) out of Figma via the Figma MCP, interviews you about the decisions Figma can't export (brand voice, semantic color meaning, do's and don'ts, light/dark modes), and writes a clean DESIGN.md you can hand to any AI agent so its prototypes match your system.
+
+Built so a non-designer can prototype against your design system and get output that actually looks right.
+
+**Requires:** a connected [Figma MCP server](https://www.figma.com/blog/introducing-figmas-dev-mode-mcp-server/) (remote `mcp.figma.com` or the Figma desktop app's Dev Mode MCP).
+
+**Run it by saying:** *"Make a DESIGN.md from my Figma file: <url>"* — or just mention design.md and paste a Figma link.
+
+## Notes
+
+- This repo is itself the marketplace; no install step beyond the two commands above.
+- Skills install under your `~/.claude/` directory and are namespaced (e.g. `figma-to-design-md:figma-to-design-md`) to avoid collisions.
+
+## License
+
+MIT

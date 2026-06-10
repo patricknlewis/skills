@@ -1,0 +1,19 @@
+{
+  "name": "patricknlewis-skills",
+  "owner": {
+    "name": "Patrick Lewis",
+    "email": "patrick@bytortuga.com"
+  },
+  "plugins": [
+    {
+      "name": "figma-to-design-md",
+      "source": "./plugins/figma-to-design-md",
+      "description": "Generate a spec-compliant DESIGN.md design-system file from any Figma design system, via the Figma MCP.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Patrick Lewis",
+        "email": "patrick@bytortuga.com"
+      }
+    }
+  ]
+}
