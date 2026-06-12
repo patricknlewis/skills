@@ -14,6 +14,16 @@
         "name": "Patrick Lewis",
         "email": "patrick@bytortuga.com"
       }
+    },
+    {
+      "name": "write-project-summary",
+      "source": "./plugins/write-project-summary",
+      "description": "Write a portfolio project summary — a single-page writeup of a shipped or in-progress product — with interview and drafting modes and a fabrication guard.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Patrick Lewis",
+        "email": "patrick@bytortuga.com"
+      }
     }
   ]
 }

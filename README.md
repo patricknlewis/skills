@@ -30,6 +30,14 @@ Built so a non-designer can prototype against your design system and get output 
 
 **Run it by saying:** *"Make a DESIGN.md from my Figma file: <url>"* — or just mention design.md and paste a Figma link.
 
+### write-project-summary
+
+Writes a portfolio *project summary* — the single-page writeup that documents one product, sitting between a quick blurb and a full case study (500–900 words). It has two modes: **interview mode** generates a short set of questions when the source material is thin (answer by voice memo, transcript, or text), and **drafting mode** writes the summary once the material exists. It enforces structure (opening, features, strategic decisions, learnings) and a fabrication guard so nothing — metrics, learnings, roles — gets invented from inference.
+
+Built so the summary shows *how a designer thinks*, with the product as evidence, not a press release.
+
+**Run it by saying:** *"Write up [product] for my portfolio"* — or *"draft the [product] page"* / *"help me document this project."*
+
 ## Notes
 
 - This repo is itself the marketplace; no install step beyond the two commands above.
