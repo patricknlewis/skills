@@ -13,14 +13,14 @@ In Claude Code, add the marketplace once:
 Then install the skill you want:
 
 ```
-/plugin install figma-to-design-md
+/plugin install extract-figma-design-md
 ```
 
 That's it. Updates arrive automatically when I push new versions — or run `/plugin marketplace update` to refresh on demand.
 
 ## Skills
 
-### figma-to-design-md
+### extract-figma-design-md
 
 Turns any Figma design system into a spec-compliant [`DESIGN.md`](https://github.com/google-labs-code/design.md) — the plain-text, AI-readable source of truth for a design system. It pulls colors, typography, spacing, radii, and every component (with variants) out of Figma via the Figma MCP, interviews you about the decisions Figma can't export (brand voice, semantic color meaning, do's and don'ts, light/dark modes), and writes a clean DESIGN.md you can hand to any AI agent so its prototypes match your system.
 
@@ -33,7 +33,7 @@ Built so a non-designer can prototype against your design system and get output 
 ## Notes
 
 - This repo is itself the marketplace; no install step beyond the two commands above.
-- Skills install under your `~/.claude/` directory and are namespaced (e.g. `figma-to-design-md:figma-to-design-md`) to avoid collisions.
+- Skills install under your `~/.claude/` directory and are namespaced (e.g. `extract-figma-design-md:extract-figma-design-md`) to avoid collisions.
 
 ## License
 

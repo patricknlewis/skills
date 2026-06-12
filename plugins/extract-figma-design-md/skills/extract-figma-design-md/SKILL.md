@@ -1,5 +1,5 @@
 ---
-name: figma-to-design-md
+name: extract-figma-design-md
 description: Generate or update a DESIGN.md design-system spec file from a Figma design system file using the Figma MCP. Use this skill whenever the user mentions design.md or DESIGN.md, wants to extract design tokens, variables, or components from Figma into a document, wants to document a design system, or wants prototypes and generated code to match their Figma design system — even if they just paste a Figma URL and ask to "set up design context", "capture my design system", or "make my prototypes look right". Also use it to refresh an existing DESIGN.md after the Figma file changes.
 compatibility: Requires a connected Figma MCP server (remote mcp.figma.com or the Figma desktop app's Dev Mode MCP server).
 ---
