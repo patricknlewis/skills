@@ -8,10 +8,7 @@
     "url": "https://github.com/patricknlewis"
   },
   "homepage": "https://github.com/patricknlewis/skills",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/patricknlewis/skills"
-  },
+  "repository": "https://github.com/patricknlewis/skills",
   "keywords": ["design", "critique", "design-review", "ux", "product-design"],
   "license": "MIT"
 }

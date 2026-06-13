@@ -8,10 +8,7 @@
     "url": "https://github.com/patricknlewis"
   },
   "homepage": "https://github.com/patricknlewis/skills",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/patricknlewis/skills"
-  },
+  "repository": "https://github.com/patricknlewis/skills",
   "keywords": ["portfolio", "project-summary", "design", "writing", "case-study"],
   "license": "MIT"
 }
