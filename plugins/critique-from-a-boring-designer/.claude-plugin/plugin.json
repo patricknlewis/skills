@@ -1,0 +1,17 @@
+{
+  "name": "critique-from-a-boring-designer",
+  "version": "1.0.0",
+  "description": "Give a product designer a structured critique of a screen or flow — gated by design stage, traced to stated principles, naming problems precisely without ever proposing an alternative design.",
+  "author": {
+    "name": "Patrick Lewis",
+    "email": "patrick@bytortuga.com",
+    "url": "https://github.com/patricknlewis"
+  },
+  "homepage": "https://github.com/patricknlewis/skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patricknlewis/skills"
+  },
+  "keywords": ["design", "critique", "design-review", "ux", "product-design"],
+  "license": "MIT"
+}

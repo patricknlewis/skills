@@ -38,6 +38,12 @@ Built so the summary shows *how a designer thinks*, with the product as evidence
 
 **Run it by saying:** *"Write up [product] for my portfolio"* — or *"draft the [product] page"* / *"help me document this project."*
 
+### critique-from-a-boring-designer
+
+Gives a structured design critique the way a thoughtful senior designer would — not a generic heuristics audit. It runs a short intake (goal, stage, known-rough areas), then works deliberate passes (does it work → is it complete → does it say the right things → is it considered), gating which passes run by design stage so an exploration isn't critiqued like a shipping candidate. Notes name consequences over preferences, are tiered by severity, and capped to the few that matter. Built on Cap Watkins' *The Boring Designer*. Its one hard rule: it **never proposes an alternative design** — it names the problem and leaves the solving to you.
+
+**Run it by saying:** *"Critique this"* / *"review my design"* — and share a screen, a flow, or a flow plus a reference screen.
+
 ## Notes
 
 - This repo is itself the marketplace; no install step beyond the two commands above.

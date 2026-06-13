@@ -24,6 +24,16 @@
         "name": "Patrick Lewis",
         "email": "patrick@bytortuga.com"
       }
+    },
+    {
+      "name": "critique-from-a-boring-designer",
+      "source": "./plugins/critique-from-a-boring-designer",
+      "description": "Give a product designer a structured critique of a screen or flow — gated by design stage, traced to stated principles, naming problems precisely without ever proposing an alternative design.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Patrick Lewis",
+        "email": "patrick@bytortuga.com"
+      }
     }
   ]
 }
