@@ -44,6 +44,12 @@ Gives a structured design critique the way a thoughtful senior designer would �
 
 **Run it by saying:** *"Critique this"* / *"review my design"* — and share a screen, a flow, or a flow plus a reference screen.
 
+### name-a-product
+
+Helps name a product the way a designer who's named things well actually does it — start from the job the product does, find a real-world thing that does that job, and check what people *hear* when they say it out loud. It takes a short brief, generates names across two paths (job-to-counterpart and visual-first), tests each against a weighted set of standards (does it do work, does it carry a visual, the wrong-image check, owned-term collisions), and narrows to a shortlist of three to five with the tradeoffs named. Availability is treated as a filter on the shortlist, not a gate at the top. Its hard rules: it **never crowns a winner** and **never draws a logo or mark** — it surfaces the raw material and hands the creative judgment back to you.
+
+**Run it by saying:** *"Help me name [product]"* / *"what should I call this"* / *"this name isn't landing."*
+
 ## Notes
 
 - This repo is itself the marketplace; no install step beyond the two commands above.

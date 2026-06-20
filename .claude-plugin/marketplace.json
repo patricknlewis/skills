@@ -34,6 +34,16 @@
         "name": "Patrick Lewis",
         "email": "patrick@bytortuga.com"
       }
+    },
+    {
+      "name": "name-a-product",
+      "source": "./plugins/name-a-product",
+      "description": "Help name a product — generate names across distinct strategies from a brief, test each against a set of standards, and narrow to a shortlist with the tradeoffs named, leaving the final call and any visual to the designer.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Patrick Lewis",
+        "email": "patrick@bytortuga.com"
+      }
     }
   ]
 }
